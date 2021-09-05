@@ -1,4 +1,4 @@
-
+This is a Client Project
 # Auction System
 
 An online auction system. 
